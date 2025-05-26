@@ -31,13 +31,27 @@ How to Test
 4. Observe results of operations through the console and Postman responses.
 
 Screenshots
-Screenshots show:
-![Post values](screenshots/img1.png)
-![Get ID](screenshots/img2.png)
-![SQL](screenshots/img3.png)
-![Delete](screenshots/img4.png)
-![Delete Result](screenshots/img5.png)
-![Modify](screenshots/img6.png)
-![Modify Result](screenshots/img7.png)
+
+1. Sending a POST request to add a new product with values.
+   ![Post values](Screenshots/img1.png)
+   
+2. Retrieving a product by its ID using a GET request.
+   ![Get ID](Screenshots/img2.png)
+    
+3. SQL query showing all products currently in the database.
+   ![SQL](Screenshots/img3.png)
+     
+4. Sending a DELETE request to remove a product by ID.
+   ![Delete](Screenshots/img4.png)  
+
+5. Result confirming the product was successfully deleted on console.
+    ![Delete Result](Screenshots/img5.png)  
+
+ 6.Sending a PUT request to modify/update a product.
+    ![Modify](Screenshots/img6.png)  
+
+ 7.Result showing the updated product details after modification on console.
+    ![Modify Result](Screenshots/img7.png)  
+
 
 *Created Afreen*
