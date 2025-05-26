@@ -32,15 +32,12 @@ How to Test
 
 Screenshots
 Screenshots show:
-![Post values](Screenshots/1. Post values.png)
-![Get ID](Screenshots/2. Get ID.png)
-![SQL](Screenshots/3. SQL.png)
-![Delete](Screenshots/4. Delete.png)
-![Delete Result](Screenshots/5. Delete Result.png)
-![Modify](Screenshots/6. Modify.png)
-![Modify Result](Screenshots/7. Modify Result.png)
-
-Slides 62 Q&A
-Even though ProductRepository is empty, it extends JpaRepository, which already has methods like save, findById, findAll, and deleteById. Spring Boot automatically provides the implementation at runtime, so we can use these methods in our service without writing any code ourselves.
+![Post values](screenshots/img1.png)
+![Get ID](screenshots/img2.png)
+![SQL](screenshots/img3.png)
+![Delete](screenshots/img4.png)
+![Delete Result](screenshots/img5.png)
+![Modify](screenshots/img6.png)
+![Modify Result](screenshots/img7.png)
 
 *Created Afreen*
